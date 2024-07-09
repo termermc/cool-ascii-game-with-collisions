@@ -12,3 +12,9 @@ World chars that can be collided with are defined in the `defaultColliders` cons
 
 Entities collide based on their non-space image chars, allowing free-form collisions without needing bounding boxes.
 Think like collisions in Tetris.
+
+# Demo
+
+Single-character entities chase you around the map. If you collide with them, they get deleted.
+
+[![asciicast](https://asciinema.org/a/JurEVaT3RDf5hkPMz4sMBFoKy.svg)](https://asciinema.org/a/JurEVaT3RDf5hkPMz4sMBFoKy)
