@@ -13,7 +13,7 @@ const defaultColliders = [
  * @returns {number}
  */
 function randomInt(min, max) {
-	return Math.round(Math.random() * (max - min) + min);
+	return Math.round(Math.random() * (max - min) + min)
 }
 
 /** @typedef {string[][]} GridData */
