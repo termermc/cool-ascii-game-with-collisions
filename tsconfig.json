@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"strict": true,
+		"strictBindCallApply": true,
+		"strictFunctionTypes": true,
+		"alwaysStrict": true,
+		"strictPropertyInitialization": true
+	},
+	"include": [
+		"*.js",
+		"src/**/*",
+	]
+}
